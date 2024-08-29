@@ -131,3 +131,4 @@ class OnBoarding extends StatelessWidget {
 
 <hr/>
 Made with ❤ by Flutter team at <a href="https://appinio.app">Appinio GmbH</a>
+"Some changes" 
